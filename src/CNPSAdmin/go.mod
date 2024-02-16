@@ -1,6 +1,6 @@
 module github.com/sidharth-git/golangproject/src/CNPSAdmin
 
-go 1.22.0
+go 1.22
 
 require (
 	github.com/astaxie/beego v1.12.3 // indirect
