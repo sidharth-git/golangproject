@@ -17,7 +17,7 @@ FROM alpine:latest
 # Set the working directory inside the container
 WORKDIR /app
 
-# Expose port 8080
+# Expose port 8000
 EXPOSE 8000
 
 # Copy the built executable from the previous stage
